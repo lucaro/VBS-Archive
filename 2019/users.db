@@ -1,0 +1,4 @@
+{"username":"admin","password":"admin","role":"Admin","_id":"8DdEMFBLyD5JF9tx"}
+{"username":"viewer","password":"viewer","role":"Viewer","_id":"8UlwbxT36FRUk3Ew"}
+{"username":"judge","password":"judge","role":"Judge","_id":"R6sNp6aVbvHSlnlC"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}

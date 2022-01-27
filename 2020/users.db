@@ -1,0 +1,9 @@
+{"username":"Judge","password":"judging@daejeon20","role":"Judge","_id":"cRibcQi0cfa5LH6B"}
+{"username":"Viewer","password":"mwq7ov3p","role":"Viewer","_id":"cmdWojR1VKjnc9dC"}
+{"username":"admin","password":"vbs@daejeon","role":"Admin","_id":"yvz5vfUiToXUWb5v"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
+{"username":"admin","password":"","role":"Admin","_id":"yvz5vfUiToXUWb5v"}
+{"username":"Viewer","password":"","role":"Viewer","_id":"cmdWojR1VKjnc9dC"}
+{"username":"Viewer","password":"Viewer","role":"Viewer","_id":"cmdWojR1VKjnc9dC"}
+{"username":"Judge","password":"Judge","role":"Judge","_id":"cRibcQi0cfa5LH6B"}
+{"username":"admin","password":"admin","role":"Admin","_id":"yvz5vfUiToXUWb5v"}

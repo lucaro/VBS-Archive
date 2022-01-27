@@ -1,0 +1,21 @@
+taskId;name;startTime;maxSearchTime;type;videoNumber;startFrame;endFrame;text1;text2;text3;trecvidId;avsText
+1;KIS Visual 1;2018-2-5 10:20:31;300;KIS_Visual;36071;1625;2124;;;;
+2;AVS 1*;2018-2-5 10:26:14;300;AVS;;;;;;;531;Find shots of one or more people eating food at a table indoors
+3;KIS Textual 12;2018-2-5 10:34:21;300;KIS_Textual;39345;10525;11123;A dark skinned man with a gray hat standind under a curved roof and talks into a microphone. His name is displayed at the beginning.;A dark skinned man with a gray hat standind under a curved roof and talks into a microphone. His name is displayed at the beginning, in a yellow box. He is called Dojival Vieira and wears a black shirt.;A dark skinned man with a gray hat standind under a curved roof and talks into a microphone. His name is displayed at the beginning, in a yellow box. He is called Dojival Viera and wears a black shirt. The roof is white. Houses and trees are visible behind the man on the left.;
+4;AVS 12*;2018-2-5 10:40:06;300;AVS;;;;;;;542;Find shots of at least two planes both visible
+5;KIS Visual 6;2018-2-5 10:45:39;300;KIS_Visual;35805;630;1229;;;;
+6;KIS Textual 4;2018-2-5 10:51:42;420;KIS_Textual;36539;959;1557;An Asian woman in a hardware store testing red paint on the wall. Male shop assistant cuts a wooden board. The women opens many exhibited doors.;An Asian woman in a hardware store testing red paint on the wall. Male shop assistant cuts a wooden board. The women opens many exhibited doors. Video is slightly fast forward, and has orange text overlay at the top and then left.;An Asian woman in a hardware store testing red paint on the wall. Male shop assistant cuts a wooden board. The women opens many exhibited doors. Video is slightly fast forward, and has orange text overlay at the top and then left. Woman carries a large orange bag, with white writing "B&Q".;
+7;AVS 21*;2018-2-5 11:02:13;300;AVS;;;;;;;551;Find shots of a person riding a horse including horse-drawn carts
+8;KIS Visual 3;2018-2-5 11:07:51;300;KIS_Visual;38913;5245;5843;;;;
+9;KIS Textual 13;2018-2-5 11:29:43;420;KIS_Textual;36752;5909;6304;A bearded man with glasses in a storehouse. He walks between boxes to the right and puts something on a shelf.;A bearded man with glasses in a storehouse. He walks between boxes to the right and puts something on a shelf. The camera follows the man closely, showing only head and shoulders.;A bearded man with glasses in a storehouse. He walks between boxes to the right and puts something on a shelf. The camera follows the man closely, showing only head and shoulders. He has dark hair and wears a orange/brownish pullover. There shelfs have yellow and red supports.;
+10;AVS 9*;2018-2-5 11:37:31;300;AVS;;;;;;;539;Find shots of an adult person running in a city street
+11;KIS Visual 7;2018-2-5 11:43:05;300;KIS_Visual;36310;0;598;;;;
+12;KIS Textual 14;2018-2-5 11:50:38;420;KIS_Textual;38341;12400;13598;A man with a black jacket and glasses sitting at a desk, a secretary standing left of him, handing him papers to sign.;A man with a black jacket and glasses sitting at a desk, a secretary standing left of him, handing him papers to sign. A wooden door is on the left in the background, a phone is on the right side of the desk.;A calendar with months forming a white/gray checkerboard is on the wall behind the desk.;
+13;KIS Visual 10;2018-2-5 12:19:26;300;KIS_Visual_novice;37663;7463;8061;;;;
+14;AVS 10;2018-2-5 12:25:02;300;AVS_novice;;;;;;;540;Find shots of vegetables and/or fruits
+15;KIS Visual 11;2018-2-5 12:31:55;300;KIS_Visual_novice;37517;4519;4993;;;;
+16;AVS 17;2018-2-5 12:37:41;300;AVS_novice;;;;;;;547;Find shots of a person with a gun visible
+17;KIS Visual 8;2018-2-5 12:47:40;300;KIS_Visual_novice;39195;7792;8390;;;;
+18;AVS 18;2018-2-5 12:53:15;300;AVS_novice;;;;;;;548;Find shots of a chef or cook in a kitchen
+19;KIS Visual 12;2018-2-5 13:01:39;300;KIS_Visual_novice;38776;6895;7493;;;;
+20;AVS 27;2018-2-5 13:07:10;300;AVS_novice;;;;;;;557;Find shots of person holding, throwing or playing with a balloon

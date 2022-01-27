@@ -1,0 +1,181 @@
+year;team;isTop3;taskId;taskType;desc;trecvidId;expert/novice;searchTime;numAttempts;success;score
+2018;VITRIVR;;1;KIS_Visual;KIS Visual 1;;expert;171.13;2;true;61
+2018;SIRET;;1;KIS_Visual;KIS Visual 1;;expert;261.1;6;true;6
+2018;VNU;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;VIREO;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;HTW;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;ITEC1;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;VERGE;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;NECTEC;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;ITEC2;;1;KIS_Visual;KIS Visual 1;;expert;300;0;false;0
+2018;ITEC1;;2;AVS;AVS 1*;531;expert;53.12;7;true;7.24
+2018;HTW;;2;AVS;AVS 1*;531;expert;44.79;33;true;17.93
+2018;NECTEC;;2;AVS;AVS 1*;531;expert;41.23;37;true;45.47
+2018;VITRIVR;;2;AVS;AVS 1*;531;expert;29.21;38;true;30.99
+2018;VNU;;2;AVS;AVS 1*;531;expert;65.02;13;true;13.64
+2018;VERGE;;2;AVS;AVS 1*;531;expert;81.18;19;true;7.56
+2018;VIREO;;2;AVS;AVS 1*;531;expert;57.65;46;true;4.59
+2018;ITEC2;;2;AVS;AVS 1*;531;expert;161.42;16;true;15.82
+2018;SIRET;;2;AVS;AVS 1*;531;expert;25.06;8;true;12.81
+2018;NECTEC;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;SIRET;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;VIREO;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;VERGE;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;ITEC1;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;VNU;;3;KIS_Textual;KIS Textual 12;;expert;300;1;false;0
+2018;HTW;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;ITEC2;;3;KIS_Textual;KIS Textual 12;;expert;300;0;false;0
+2018;VITRIVR;;3;KIS_Textual;KIS Textual 12;;expert;300;1;false;0
+2018;VITRIVR;;4;AVS;AVS 12*;542;expert;13.06;39;true;19.82
+2018;ITEC2;;4;AVS;AVS 12*;542;expert;77.08;23;true;25.8
+2018;SIRET;;4;AVS;AVS 12*;542;expert;27.7;30;true;48.65
+2018;VERGE;;4;AVS;AVS 12*;542;expert;18.87;39;true;37.84
+2018;NECTEC;;4;AVS;AVS 12*;542;expert;15.35;34;true;34.61
+2018;VNU;;4;AVS;AVS 12*;542;expert;21.93;25;true;28.49
+2018;ITEC1;;4;AVS;AVS 12*;542;expert;32.23;36;true;40.54
+2018;VIREO;;4;AVS;AVS 12*;542;expert;32.12;47;true;29.08
+2018;HTW;;4;AVS;AVS 12*;542;expert;18.12;18;true;17.81
+2018;VERGE;;5;KIS_Visual;KIS Visual 6;;expert;300;0;false;0
+2018;NECTEC;;5;KIS_Visual;KIS Visual 6;;expert;300;0;false;0
+2018;ITEC1;;5;KIS_Visual;KIS Visual 6;;expert;300;0;false;0
+2018;VIREO;;5;KIS_Visual;KIS Visual 6;;expert;45.92;1;true;92
+2018;VITRIVR;;5;KIS_Visual;KIS Visual 6;;expert;300;0;false;0
+2018;SIRET;;5;KIS_Visual;KIS Visual 6;;expert;121.07;1;true;80
+2018;VNU;;5;KIS_Visual;KIS Visual 6;;expert;260.18;1;true;57
+2018;ITEC2;;5;KIS_Visual;KIS Visual 6;;expert;300;0;false;0
+2018;HTW;;5;KIS_Visual;KIS Visual 6;;expert;103.7;1;true;83
+2018;NECTEC;;6;KIS_Textual;KIS Textual 4;;expert;420;0;false;0
+2018;HTW;;6;KIS_Textual;KIS Textual 4;;expert;420;0;false;0
+2018;VIREO;;6;KIS_Textual;KIS Textual 4;;expert;420;0;false;0
+2018;SIRET;;6;KIS_Textual;KIS Textual 4;;expert;250.65;3;true;50
+2018;ITEC1;;6;KIS_Textual;KIS Textual 4;;expert;344.26;2;true;49
+2018;VNU;;6;KIS_Textual;KIS Textual 4;;expert;420;5;false;0
+2018;ITEC2;;6;KIS_Textual;KIS Textual 4;;expert;318.37;1;true;62
+2018;VITRIVR;;6;KIS_Textual;KIS Textual 4;;expert;420;0;false;0
+2018;VERGE;;6;KIS_Textual;KIS Textual 4;;expert;420;6;false;0
+2018;VERGE;;7;AVS;AVS 21*;551;expert;20.15;23;true;18.6
+2018;ITEC2;;7;AVS;AVS 21*;551;expert;63.74;36;true;40
+2018;VIREO;;7;AVS;AVS 21*;551;expert;41.65;51;true;17.05
+2018;VITRIVR;;7;AVS;AVS 21*;551;expert;18.45;44;true;16.51
+2018;SIRET;;7;AVS;AVS 21*;551;expert;15.33;35;true;24.44
+2018;HTW;;7;AVS;AVS 21*;551;expert;19.12;37;true;23.05
+2018;ITEC1;;7;AVS;AVS 21*;551;expert;69.86;28;true;20
+2018;NECTEC;;7;AVS;AVS 21*;551;expert;18.23;75;true;48.89
+2018;VNU;;7;AVS;AVS 21*;551;expert;35.48;10;true;13.33
+2018;ITEC1;;8;KIS_Visual;KIS Visual 3;;expert;58.76;1;true;90
+2018;VITRIVR;;8;KIS_Visual;KIS Visual 3;;expert;229.65;1;true;62
+2018;ITEC2;;8;KIS_Visual;KIS Visual 3;;expert;113.01;1;true;81
+2018;SIRET;;8;KIS_Visual;KIS Visual 3;;expert;39.94;1;true;93
+2018;NECTEC;;8;KIS_Visual;KIS Visual 3;;expert;49.05;1;true;92
+2018;VERGE;;8;KIS_Visual;KIS Visual 3;;expert;73.92;1;true;88
+2018;HTW;;8;KIS_Visual;KIS Visual 3;;expert;52.4;1;true;91
+2018;VNU;;8;KIS_Visual;KIS Visual 3;;expert;300;0;false;0
+2018;VIREO;;8;KIS_Visual;KIS Visual 3;;expert;33.58;1;true;94
+2018;VITRIVR;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;HTW;;9;KIS_Textual;KIS Textual 13;;expert;420;1;false;0
+2018;VERGE;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;SIRET;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;NECTEC;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;VIREO;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;ITEC2;;9;KIS_Textual;KIS Textual 13;;expert;420;1;false;0
+2018;VNU;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;ITEC1;;9;KIS_Textual;KIS Textual 13;;expert;420;0;false;0
+2018;HTW;;10;AVS;AVS 9*;539;expert;16.42;23;true;26.25
+2018;VNU;;10;AVS;AVS 9*;539;expert;117.12;7;true;1.67
+2018;SIRET;;10;AVS;AVS 9*;539;expert;27.32;2;true;13.33
+2018;ITEC1;;10;AVS;AVS 9*;539;expert;46.51;11;true;15.56
+2018;VERGE;;10;AVS;AVS 9*;539;expert;27.78;54;true;36.06
+2018;NECTEC;;10;AVS;AVS 9*;539;expert;49.55;17;true;10.16
+2018;ITEC2;;10;AVS;AVS 9*;539;expert;85.37;16;true;30.77
+2018;VITRIVR;;10;AVS;AVS 9*;539;expert;18.55;32;true;21.28
+2018;VIREO;;10;AVS;AVS 9*;539;expert;72.44;17;true;19.39
+2018;VNU;;11;KIS_Visual;KIS Visual 7;;expert;300;0;false;0
+2018;VERGE;;11;KIS_Visual;KIS Visual 7;;expert;87.79;1;true;85
+2018;VIREO;;11;KIS_Visual;KIS Visual 7;;expert;50.57;1;true;92
+2018;ITEC2;;11;KIS_Visual;KIS Visual 7;;expert;300;0;false;0
+2018;SIRET;;11;KIS_Visual;KIS Visual 7;;expert;97.47;1;true;84
+2018;NECTEC;;11;KIS_Visual;KIS Visual 7;;expert;15.79;1;true;97
+2018;HTW;;11;KIS_Visual;KIS Visual 7;;expert;125.46;1;true;79
+2018;VITRIVR;;11;KIS_Visual;KIS Visual 7;;expert;15.79;1;true;97
+2018;ITEC1;;11;KIS_Visual;KIS Visual 7;;expert;70;1;true;88
+2018;VNU;;12;KIS_Textual;KIS Textual 14;;expert;420;1;false;0
+2018;NECTEC;;12;KIS_Textual;KIS Textual 14;;expert;420;0;false;0
+2018;ITEC1;;12;KIS_Textual;KIS Textual 14;;expert;420;0;false;0
+2018;SIRET;;12;KIS_Textual;KIS Textual 14;;expert;143.31;1;true;83
+2018;VERGE;;12;KIS_Textual;KIS Textual 14;;expert;420;2;false;0
+2018;VITRIVR;;12;KIS_Textual;KIS Textual 14;;expert;229.64;1;true;73
+2018;HTW;;12;KIS_Textual;KIS Textual 14;;expert;385.88;1;true;54
+2018;ITEC2;;12;KIS_Textual;KIS Textual 14;;expert;420;0;false;0
+2018;VIREO;;12;KIS_Textual;KIS Textual 14;;expert;420;1;false;0
+2018;VITRIVR;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;HTW;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;VERGE;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;1;false;0
+2018;ITEC2;;13;KIS_Visual_novice;KIS Visual 10;;novice;151.47;1;true;75
+2018;VNU;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;VIREO;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;ITEC1;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;NECTEC;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;SIRET;;13;KIS_Visual_novice;KIS Visual 10;;novice;300;0;false;0
+2018;ITEC2;;14;AVS_novice;AVS 10;540;novice;14.33;46;true;21.19
+2018;HTW;;14;AVS_novice;AVS 10;540;novice;10.28;44;true;27.93
+2018;NECTEC;;14;AVS_novice;AVS 10;540;novice;13.49;63;true;36.36
+2018;SIRET;;14;AVS_novice;AVS 10;540;novice;21.07;57;true;30.78
+2018;VITRIVR;;14;AVS_novice;AVS 10;540;novice;25.22;40;true;25.41
+2018;VNU;;14;AVS_novice;AVS 10;540;novice;278.86;4;true;0.46
+2018;VIREO;;14;AVS_novice;AVS 10;540;novice;28.46;83;true;8.79
+2018;ITEC1;;14;AVS_novice;AVS 10;540;novice;20.69;29;true;21.86
+2018;VERGE;;14;AVS_novice;AVS 10;540;novice;141.87;31;true;14.98
+2018;VNU;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;0;false;0
+2018;VERGE;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;0;false;0
+2018;ITEC1;;15;KIS_Visual_novice;KIS Visual 11;;novice;142.53;1;true;76
+2018;HTW;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;0;false;0
+2018;VITRIVR;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;1;false;0
+2018;SIRET;;15;KIS_Visual_novice;KIS Visual 11;;novice;237.59;1;true;60
+2018;NECTEC;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;0;false;0
+2018;ITEC2;;15;KIS_Visual_novice;KIS Visual 11;;novice;300;0;false;0
+2018;VIREO;;15;KIS_Visual_novice;KIS Visual 11;;novice;170.41;1;true;72
+2018;NECTEC;;16;AVS_novice;AVS 17;547;novice;13.04;80;true;30.98
+2018;ITEC2;;16;AVS_novice;AVS 17;547;novice;18.1;46;true;27.62
+2018;VNU;;16;AVS_novice;AVS 17;547;novice;194.46;6;true;3.83
+2018;VITRIVR;;16;AVS_novice;AVS 17;547;novice;109.82;23;true;5.05
+2018;ITEC1;;16;AVS_novice;AVS 17;547;novice;12.81;68;true;28.28
+2018;VIREO;;16;AVS_novice;AVS 17;547;novice;22.3;64;true;8.15
+2018;HTW;;16;AVS_novice;AVS 17;547;novice;29.06;45;true;17.5
+2018;SIRET;;16;AVS_novice;AVS 17;547;novice;19.23;62;true;20.11
+2018;VERGE;;16;AVS_novice;AVS 17;547;novice;17.8;111;true;27.02
+2018;VITRIVR;;17;KIS_Visual_novice;KIS Visual 8;;novice;300;0;false;0
+2018;VNU;;17;KIS_Visual_novice;KIS Visual 8;;novice;93.56;1;true;84
+2018;ITEC2;;17;KIS_Visual_novice;KIS Visual 8;;novice;300;1;false;0
+2018;SIRET;;17;KIS_Visual_novice;KIS Visual 8;;novice;252.87;1;true;58
+2018;VERGE;;17;KIS_Visual_novice;KIS Visual 8;;novice;300;0;false;0
+2018;HTW;;17;KIS_Visual_novice;KIS Visual 8;;novice;300;0;false;0
+2018;ITEC1;;17;KIS_Visual_novice;KIS Visual 8;;novice;241.48;2;true;50
+2018;VIREO;;17;KIS_Visual_novice;KIS Visual 8;;novice;125.47;1;true;79
+2018;NECTEC;;17;KIS_Visual_novice;KIS Visual 8;;novice;300;0;false;0
+2018;VITRIVR;;18;AVS_novice;AVS 18;548;novice;27.91;57;true;14.86
+2018;ITEC2;;18;AVS_novice;AVS 18;548;novice;15.69;101;true;36.39
+2018;VERGE;;18;AVS_novice;AVS 18;548;novice;41.34;77;true;24.11
+2018;NECTEC;;18;AVS_novice;AVS 18;548;novice;20.17;144;true;43.52
+2018;ITEC1;;18;AVS_novice;AVS 18;548;novice;15.59;86;true;31.15
+2018;HTW;;18;AVS_novice;AVS 18;548;novice;15.31;66;true;32
+2018;SIRET;;18;AVS_novice;AVS 18;548;novice;27.42;73;true;36.25
+2018;VIREO;;18;AVS_novice;AVS 18;548;novice;70.25;55;true;9.82
+2018;VNU;;18;AVS_novice;AVS 18;548;novice;38.34;16;true;13.39
+2018;VIREO;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;HTW;;19;KIS_Visual_novice;KIS Visual 12;;novice;73.69;1;true;88
+2018;VITRIVR;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;ITEC1;;19;KIS_Visual_novice;KIS Visual 12;;novice;245.61;2;true;49
+2018;NECTEC;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;VNU;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;SIRET;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;VERGE;;19;KIS_Visual_novice;KIS Visual 12;;novice;300;0;false;0
+2018;ITEC2;;19;KIS_Visual_novice;KIS Visual 12;;novice;157.05;1;true;74
+2018;ITEC2;;20;AVS_novice;AVS 27;557;novice;40.35;39;true;23.16
+2018;ITEC1;;20;AVS_novice;AVS 27;557;novice;26.65;14;true;10.3
+2018;NECTEC;;20;AVS_novice;AVS 27;557;novice;12.03;27;true;33.08
+2018;HTW;;20;AVS_novice;AVS 27;557;novice;104.09;8;true;10.12
+2018;VERGE;;20;AVS_novice;AVS 27;557;novice;300;1;false;0
+2018;VNU;;20;AVS_novice;AVS 27;557;novice;96.65;7;true;1.91
+2018;VIREO;;20;AVS_novice;AVS 27;557;novice;54.25;32;true;16.19
+2018;VITRIVR;;20;AVS_novice;AVS 27;557;novice;23.91;9;true;4.86
+2018;SIRET;;20;AVS_novice;AVS 27;557;novice;25.25;40;true;32.39
