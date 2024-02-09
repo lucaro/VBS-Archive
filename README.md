@@ -3,8 +3,9 @@ This repository contains an archive of tasks and tesults of the [Video Browser S
 
 | Year 	| Location   								| Dataset                               	| Participating Teams 	| Top Scorer        	|
 |------	|-------------------------------------------|---------------------------------------	|---------------------	|-------------------	|
-| 2024  | Amsterdam, The Netherlands  				| V3C1 + V3C2 + MVK + (TBD)					| TBD  					| TBD 					|
-| [2023](2023)  | Bergen, Norway  					| V3C1 + V3C2 + MVK  						| 13                 	| vibro               	|
+| 2025  | Nara, Japan								| V3C1 + V3C2 + V3C3 + MVK + VBSLHE (tbd)	| tbd					| tbd					|
+| [2024](2024)  | Amsterdam, The Netherlands  		| V3C1 + V3C2 + MVK + VBSLHE				| 12  					| [visione](https://link.springer.com/chapter/10.1007/978-3-031-53302-0_29)				|
+| [2023](2023)  | Bergen, Norway  					| V3C1 + V3C2 + MVK  						| 13                 	| [vibro](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_56)              	|
 | [2022](2022) 	| Phu Quoc, Vietnam  				| V3C1 + V3C2   							| 16                 	| [vibro](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_43)           	|
 | [2021](2021) 	| Prague, Czech Republic (virtual) 	| V3C1   									| 17                  	| [vitrivr](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_41)         	|
 | [2020](2020) 	| Daejeon, Korea  					| V3C1    									| 10                  	| [SOMHunter](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_71)       	|
@@ -19,6 +20,7 @@ This repository contains an archive of tasks and tesults of the [Video Browser S
 
 ## Analysis Papers
 
+- 2022: *J. Lokoč et al.* **Interactive video retrieval in the age of effective joint embedding deep models: lessons from the 11th VBS** DOI: [10.1007/s00530-023-01143-5](https://doi.org/10.1007/s00530-023-01143-5)
 - 2021: *S. Heller et al.* **Interactive video retrieval evaluation at a distance: comparing sixteen interactive video search systems in a remote setting at the 10th Video Browser Showdown** DOI: [10.1007/s13735-021-00225-2](https://doi.org/10.1007/s13735-021-00225-2)
 - 2020: *J. Lokoč et al.* **Is the Reign of Interactive Search Eternal? - Findings from the Video Browser Showdown 2020** <br> DOI: [10.1145/3445031](https://doi.org/10.1145/3445031)
 - 2019: *L. Rossetto et al.* **Interactive Video Retrieval in the Age of Deep Learning – Detailed Evaluation of VBS 2019** <br> DOI: [10.1109/TMM.2020.2980944](https://doi.org/10.1109/TMM.2020.2980944)
