@@ -1,0 +1,890 @@
+[
+    {
+        "query_name": "Textual2019-10",
+        "hints": [
+            "A slow pan up from a canyon, static shots of a bridge and redrock mountain.",
+            "A slow pan up from a canyon, static shots of a bridge and redrock mountain. A river is visible at the ground of the canyon.",
+            "A slow pan up from a canyon, static shots of a bridge and redrock mountain. A river is visible at the ground of the canyon. The bridge is a steel bridge, there is a road right to the mountain in the last shot."
+        ],
+        "answer": "04408",
+        "videorange": {
+            "start": 107000,
+            "end": 126960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-20",
+        "hints": [
+            "Close-up of hands playing the piano, then of hands using a tablet.",
+            "Close-up of hands playing the piano, then of hands using a tablet. The tablet shows musical score sheets.",
+            "Close-up of hands playing the piano, then of hands using a tablet. The tablet shows musical score sheets. 'videoblocks' is superimposed over the shot with the tablet."
+        ],
+        "answer": "03589",
+        "videorange": {
+            "start": 237404,
+            "end": 253970
+        },
+        "fps": 29.97
+    },
+    {
+        "query_name": "Textual2019-15",
+        "hints": [
+            "Close-up of a blond girl in front of a bookshelf, inbetween shots of her and elderly men walking.",
+            "Close-up of a blond girl in front of a bookshelf, inbetween shots of her and elderly men walking. She wears a green vest, one of the old man wears dark and patterned clothes.",
+            "Close-up of a blond girl in front of a bookshelf, inbetween shots of her and elderly men walking. She wears a green vest, one of the old man wears dark and patterned clothes. In the final shot they walk off and she turns around."
+        ],
+        "answer": "01693",
+        "videorange": {
+            "start": 297000,
+            "end": 316960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-1",
+        "hints": [
+            "A man with two boys entering a comic book store, they are greeted by the owner. People inside and outside the store cheering.",
+            "A man with two boys entering a comic book store, they are greeted by the owner. People inside and outside the store cheering. A group of boys wearing blue Dodgers and Royals shirts.",
+            "A man with two boys entering a comic book store, they are greeted by the owner. People inside and outside the store cheering. A group of boys wearing blue Dodgers and Royals shirts. The store own wears black and has grey hair."
+        ],
+        "answer": "00012",
+        "videorange": {
+            "start": 53386,
+            "end": 65365
+        },
+        "fps": 29.97
+    },
+    {
+        "query_name": "Textual2019-18",
+        "hints": [
+            "A sequence of three starts with a paraglider, filmed from the view of the pilot.",
+            "A sequence of three starts with a paraglider, filmed from the view of the pilot. The paraglider is green/white with a blue stripe inbetween.",
+            "A sequence of three starts with a paraglider, filmed from the view of the pilot. The paraglider is green/white with a blue stripe inbetween. In the last shot, the pilot's shadow is visible."
+        ],
+        "answer": "02423",
+        "videorange": {
+            "start": 13000,
+            "end": 32960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-14",
+        "hints": [
+            "Shot from a bike, first along a desert path, then on a street, overtaking riders on a tandem.",
+            "Shot from a bike, first along a desert path, then on a street, overtaking riders on a tandem. On the desert road a plush flamingo sits on the front of the bike.",
+            "Shot from a bike, first along a desert path, then on a street, overtaking riders on a tandem. On the desert road a plush flamingo sits on the front of the bike. The riders on the street wear yellow safety vests, first seen from behind, then from the side."
+        ],
+        "answer": "02332",
+        "videorange": {
+            "start": 154000,
+            "end": 171960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-12",
+        "hints": [
+            "Inside shot of a church, first moving towards a glass window, then turning left, showing a golden image of Mary and the Child.",
+            "Inside shot of a church, first moving towards a glass window, then turning left, showing a golden image of Mary and the Child. Wooden interior, there are flowers on the altar below the image of Mary.",
+            "Inside shot of a church, first moving towards a glass window, then turning left, showing a golden image of Mary and the Child. Wooden interior, there are flowers on the altar below the image of Mary. Handheld camera, a golden chandelier is hanging from the ceiling."
+        ],
+        "answer": "05279",
+        "videorange": {
+            "start": 162000,
+            "end": 177960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-4",
+        "hints": [
+            "View out of a high building down to the street, snow is falling, views of other buildings.",
+            "View out of a high building down to the street, snow is falling, views of other buildings. The camera zooms slowly down to the street.",
+            "View out of a high building down to the street, snow is falling, views of other buildings. The camera zooms slowly down to the street. The views of other buildings get blurry."
+        ],
+        "answer": "02637",
+        "videorange": {
+            "start": 52208,
+            "end": 67959
+        },
+        "fps": 24
+    },
+    {
+        "query_name": "Textual2019-11",
+        "hints": [
+            "A protest camp on a public square, with blue canvas cover, the middle shot shows the statue of a horseman from below.",
+            "A protest camp on a public square, with blue canvas cover, the middle shot shows the statue of a horseman from below. The last shot shows an improvised library and people reading.",
+            "A protest camp on a public square, with blue canvas cover, the middle shot shows the statue of a horseman from below. The last shot shows an improvised library and people reading. Behind the statue is a building with scaffolding."
+        ],
+        "answer": "03807",
+        "videorange": {
+            "start": 137000,
+            "end": 153960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2019-2",
+        "hints": [
+            "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away.",
+            "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away. The man stands up when starting, the hovercraft is a stuck in the sand.",
+            "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away. The man stands up when starting, the hovercraft is a stuck in the sand. The man stands up when starting, the hovercraft is a stuck in the sand.\\nThe man wears a dark jacket, glasses and a hat."
+        ],
+        "answer": "06116",
+        "videorange": {
+            "start": 38004,
+            "end": 57958
+        },
+        "fps": 29.97
+    },
+    {
+        "query_name": "Textual2020-16",
+        "hints": [
+            "Seven bridesmaids in turqoise dresses walking down a street, and three still images of the bride and couple.",
+            "Seven bridesmaids in turqoise dresses walking down a street, and three still images of the bride and couple. The bridesmaids walk on the sidewalk towards the camera.",
+            "Seven bridesmaids in turqoise dresses walking down a street, and three still images of the bride and couple. The bridesmaids walk on the sidewalk towards the camera. The photos of the couple and bride are taken in a park."
+        ],
+        "answer": "04815",
+        "videorange": {
+            "start": 537823,
+            "end": 553794
+        },
+        "fps": 23.98
+    },
+    {
+        "query_name": "Textual2019-13",
+        "hints": [
+            "Interior of a radio studio, host in pink sweater on the left, talking.",
+            "Interior of a radio studio, host in pink sweater on the left, talking. Guest in the right corner, in an intermediate shot two further guests are visible.",
+            "Interior of a radio studio, host in pink sweater on the left, talking. Guest in the right corner, in an intermediate shot two further guests are visible. Screens and microphones on the table, a dark green pinboard in the background on the left."
+        ],
+        "answer": "03439",
+        "videorange": {
+            "start": 30000,
+            "end": 320240
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2020-3",
+        "hints": [
+            "Driving along a bike path (from the view of the bike rider), train track on the right, past a train stop, towards a crossing with a street.",
+            "Driving along a bike path (from the view of the bike rider), train track on the right, past a train stop, towards a crossing with a street. A path to an underpath to the platform braches off on the right, a bike is parked there.",
+            "Driving along a bike path (from the view of the bike rider), train track on the right, past a train stop, towards a crossing with a street. A path to an underpath to the platform braches off on the right, a bike is parked there. A group of bikers is waiting in front of the street crossing."
+        ],
+        "answer": "04782",
+        "videorange": {
+            "start": 80000,
+            "end": 99960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2020-21",
+        "hints": [
+            "Close-up shot of pouring coffee into a white-blue cup, then an outside shot of a house in snow storm.",
+            "Close-up shot of pouring coffee into a white-blue cup, then an outside shot of a house in snow storm. Old-style brass coffee and milk pots.",
+            "Close-up shot of pouring coffee into a white-blue cup, then an outside shot of a house in snow storm. Old-style brass coffee and milk pots. Three storey wooden house with white windows."
+        ],
+        "answer": "03937",
+        "videorange": {
+            "start": 142000,
+            "end": 161960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2020-24",
+        "hints": [
+            "A man holding a microphone and coffee cup walks past a building with a dark gray stone wall, and passes the buildings dark red door with red fences on the sides.",
+            "A man holding a microphone and coffee cup walks past a building with a dark gray stone wall, and passes the buildings dark red door with red fences on the sides. The man has brown hair, wears glasses and holds a Starbucks cup.",
+            "A man holding a microphone and coffee cup walks past a building with a dark gray stone wall, and passes the buildings dark red door with red fences on the sides. The man has brown hair, wears glasses and holds a Starbucks cup. The upper part of the building is sandstone, and dark gray stairs lead up to the door."
+        ],
+        "answer": "02398",
+        "videorange": {
+            "start": 170560,
+            "end": 190520
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2020-25",
+        "hints": [
+            "Someone setting letters into a stamp, embossing a name onto an axe cover made of leather, and presenting the axe with the cover.",
+            "Someone setting letters into a stamp, embossing a name onto an axe cover made of leather, and presenting the axe with the cover. The first shot shows wooden the box with the letters, the last shot a man on the left holding the axe.",
+            "Someone setting letters into a stamp, embossing a name onto an axe cover made of leather, and presenting the axe with the cover. The first shot shows wooden the box with the letters, the last shot a man on the left holding the axe. The man has dark hair and a beard, and wear a sweater with a green/yellow collar."
+        ],
+        "answer": "05423",
+        "videorange": {
+            "start": 241117,
+            "end": 253795
+        },
+        "fps": 23.98
+    },
+    {
+        "query_name": "Textual2020-30",
+        "hints": [
+            "A sequence from a Photoshop tutorial screencast showing how to adjust image settings of a raw image.",
+            "A sequence from a Photoshop tutorial screencast showing how to adjust image settings of a raw image. The image being processed shows a view through an Indian-style window.",
+            "A sequence from a Photoshop tutorial screencast showing how to adjust image settings of a raw image. The image being processed shows a view through an Indian-style window. The image is opened, then lens settings are reviewed and the histogram is adjusted."
+        ],
+        "answer": "04916",
+        "videorange": {
+            "start": 14066,
+            "end": 34033
+        },
+        "fps": 30
+    },
+    {
+        "query_name": "Textual2020-17",
+        "hints": [
+            "A man and a young girl walking down the street. In front of a car dealer, the man talks on the phone, the girl looks at a car, they enter the store.",
+            "A man and a young girl walking down the street. In front of a car dealer, the man talks on the phone, the girl looks at a car, they enter the store. The store is a Porsche dealer, a dark grey sports car is parked.",
+            "A man and a young girl walking down the street. In front of a car dealer, the man talks on the phone, the girl looks at a car, they enter the store. The store is a Porsche dealer, a dark grey sports car is parked. The man has short gray hair, both wear dark clothes."
+        ],
+        "answer": "02148",
+        "videorange": {
+            "start": 36000,
+            "end": 52960
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "Textual2020-19",
+        "hints": [
+            "Two shots of nurses measuring the upper arm circumference of kids.",
+            "Two shots of nurses measuring the upper arm circumference of kids. They use a green-white tape measure.",
+            "Two shots of nurses measuring the upper arm circumference of kids. They use a green-white tape measure. The woman in the second shot wears a shirt with the text 'HOLT International'."
+        ],
+        "answer": "02733",
+        "videorange": {
+            "start": 78211,
+            "end": 95162
+        },
+        "fps": 29.97
+    },
+    {
+        "query_name": "Textual2020-23",
+        "hints": [
+            "Red elevator doors opening, a bike leans inside, doors closing and reopening, bike is gone.",
+            "Red elevator doors opening, a bike leans inside, doors closing and reopening, bike is gone. Zoom-in on bike, zoom-out from empty elevator.",
+            "Red elevator doors opening, a bike leans inside, doors closing and reopening, bike is gone. Zoom-in on bike, zoom-out from empty elevator. The bike is silver, the text 'ATOMZ' is visible."
+        ],
+        "answer": "02700",
+        "videorange": {
+            "start": 302877,
+            "end": 322852
+        },
+        "fps": 23.98
+    },
+    {
+        "query_name": "Textual2020-32",
+        "hints": [
+            "A shot of a corner smoke & grocery store and a slow pan over the crossing.",
+            "A shot of a corner smoke & grocery store and a slow pan over the crossing.\nThe store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.",
+            "A shot of a corner smoke & grocery store and a slow pan over the crossing.\nThe store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.\nCars are parked along the opposite side of the street."
+        ],
+        "answer": "02457",
+        "videorange": {
+            "start": 12679,
+            "end": 25659
+        },
+        "fps": 29.97
+    },
+    {
+        "query_name": "Textual2020-31",
+        "hints": [
+            "A black musician standing in a NYC subway station and talking to people.",
+            "A black musician standing in a NYC subway station and talking to people.\nHe wears a white short and a cap, in the second shot one sees he has a drum and a black bag.",
+            "A black musician standing in a NYC subway station and talking to people.\nHe wears a white short and a cap, in the second shot one sees he has a drum and a black bag.\nIn the first shot, a sign \"EXIT Downtown 6\" is visible, in the second \"86th\" on the wall."
+        ],
+        "answer": "04740",
+        "videorange": {
+            "start": 221017,
+            "end": 238990
+        },
+        "fps": 23.98
+    },
+    {
+        "query_name": "Textual2020-22",
+        "hints": [
+            "Shot of a harbour crane in front of mountains, then of three harbour cranes on the left, a ship on the right.",
+            "Shot of a harbour crane in front of mountains, then of three harbour cranes on the left, a ship on the right. Ship is seen from the front right, with text 'PROTECT THE ENVIRONMENT' and 'NO SMOKING'.",
+            "Shot of a harbour crane in front of mountains, then of three harbour cranes on the left, a ship on the right. Ship is seen from the front right, with text 'PROTECT THE ENVIRONMENT' and 'NO SMOKING'. The harbour cranes are blue and white."
+        ],
+        "answer": "04161",
+        "videorange": {
+            "start": 142952,
+            "end": 163928
+        },
+        "fps": 23.98
+    },
+    {
+        "query_name": "t21-1",
+        "hints": [
+            "Graffity artists spraying purple outline of the letters RTH.",
+            "Graffity artists spraying purple outline of the letters RTH. Letters are white/green on a wall with a blueish graffity on the left.",
+            "Graffity artists spraying purple outline of the letters RTH. Letters are white/green on a wall with a blueish graffity on the left. He wears a blue jacket over a green hoodie."
+        ],
+        "answer": "03085",
+        "videorange": {
+            "start": 314000,
+            "end": 337000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "t21-2",
+        "hints": [
+            "A hand opening and closing a window of a mountain hut.",
+            "A hand opening and closing a window of a mountain hut. There are snow covered mountains outside.",
+            "A hand opening and closing a window of a mountain hut. There are snow covered mountains outside. The weather is sunny, the shadow of the hut is visible in the snow."
+        ],
+        "answer": "02224",
+        "videorange": {
+            "start": 70000,
+            "end": 78000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "t21-3",
+        "hints": [
+            "Historic shots of a hurdle race and discus throwing.",
+            "Historic shots of a hurdle race and discus throwing. The video is in sepia tones.",
+            "Historic shots of a hurdle race and discus throwing. The video is in sepia tones. In the hurdle race, men run towards the camera, with bystanders on the sides."
+        ],
+        "answer": "06228",
+        "videorange": {
+            "start": 0,
+            "end": 13000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "t21-4",
+        "hints": [
+            "An African man runs across a street with trees and parked cars, stops on the sidewalk and walks towards the camera.",
+            "An African man runs across a street with trees and parked cars, stops on the sidewalk and walks towards the camera. Video is black and white, in the first shots we see part of a bench.",
+            "An African man runs across a street with trees and parked cars, stops on the sidewalk and walks towards the camera. Video is black and white, in the first shots we see part of a bench. The man has dreadlocks, on the left of the sidewalk there is a low wall."
+        ],
+        "answer": "06561",
+        "videorange": {
+            "start": 670000,
+            "end": 689000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "t21-5",
+        "hints": [
+            "We see a black car approaching and stopping (shot from ground level), then a shot showing the man in the car follows.",
+            "We see a black car approaching and stopping (shot from ground level), then a shot showing the man in the car follows. When the car stops in the first shot, we see the left wheel in focus, the rest blurred.",
+            "We see a black car approaching and stopping (shot from ground level), then a shot showing the man in the car follows. When the car stops in the first shot, we see the left wheel in focus, the rest blurred. The sitting in the car man wears a baseball cap and a jacket, the camera zooms to his face."
+        ],
+        "answer": "07421",
+        "videorange": {
+            "start": 32000,
+            "end": 49000
+        },
+        "fps": 24.0
+    },
+    {
+        "query_name": "t21-6",
+        "hints": [
+            "Slow motion shot of three man running after a leaving train and jumping aboard.",
+            "Slow motion shot of three man running after a leaving train and jumping aboard. They wear suits and drop their leather bags and suitcases",
+            "Slow motion shot of three man running after a leaving train and jumping aboard. They wear suits and drop their leather bags and suitcases. The environment is a desert, the train car bears the words \"Bengal Lancer\"."
+        ],
+        "answer": "01871",
+        "videorange": {
+            "start": 166000,
+            "end": 179000
+        },
+        "fps": 223.976025
+    },
+    {
+        "query_name": "t21-7",
+        "hints": [
+            "A young man sitting outdoors and eating.",
+            "A young man sitting outdoors and eating. He wears a dark T-shirt and silver headphones.",
+            "A young man sitting outdoors and eating. He wears a dark T-shirt and silver headphones. It is evening, trees are visible behind him (out of focus)."
+        ],
+        "answer": "04316",
+        "videorange": {
+            "start": 1390000,
+            "end": 1397000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "t21-8",
+        "hints": [
+            "Drone filming it's landing on the roof of a red car.",
+            "Drone filming it's landing on the roof of a red car. The car is a Renault Megane, parked next to a field.",
+            "Drone filming it's landing on the roof of a red car. The car is a Renault Megane, parked next to a field. Yellow foam cushions at the bottom of the drone are sometimes visible at the left and right image border."
+        ],
+        "answer": "04864",
+        "videorange": {
+            "start": 335000,
+            "end": 362000
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "t21-9",
+        "hints": [
+            "Aerial shot of a bay, harbour and ferry ship.",
+            "Aerial shot of a bay, harbour and ferry ship. The segment contains flying over the ferry ship.",
+            "Aerial shot of a bay, harbour and ferry ship. The segment contains flying over the ferry ship. The ship is white, with blue writing \"BCFerries\" and cars in the front deck."
+        ],
+        "answer": "04374",
+        "videorange": {
+            "start": 278000,
+            "end": 302000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "t21-10",
+        "hints": [
+            "Two time lapse shots of silhouettes of statues in the dawn.",
+            "Two time lapse shots of silhouettes of statues in the dawn. The sky is yellow in the first one, with clouds moving by, and birds sit on the statue.",
+            "Two time lapse shots of silhouettes of statues in the dawn. The sky is yellow in the first one, with clouds moving by, and birds sit on the statue. In the second shot, the sky is orange, there are no clouds."
+        ],
+        "answer": "04312",
+        "videorange": {
+            "start": 260500,
+            "end": 272000
+        },
+        "fps": 23.976
+    },
+    {
+        "query_name": "vbs22-kis-t01",
+        "hints": [
+            "Close-up of motorbike exhaust pipes being cleaned with a wet sponge.",
+            "Close-up of motorbike exhaust pipes being cleaned with a wet sponge. Two chromed pipes are visible, open on the left.",
+            "Close-up of motorbike exhaust pipes being cleaned with a wet sponge. Two chromed pipes are visible, open on the left. The forearm of a man wearing black T-Shirt is visible a few times."
+        ],
+        "answer": "13964",
+        "videorange": {
+            "start": 303800,
+            "end": 314000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs22-kis-t02",
+        "hints": [
+            "Two shots: first of a gorge with rocks hanging over a wooden walkway, second a wooden bridge seen from a creek.",
+            "Two shots: first of a gorge with rocks hanging over a wooden walkway, second a wooden bridge seen from a creek. In the first shot, the creek is not visible, just the rocks on the right and trees and gorge on the left.",
+            "Two shots: first of a gorge with rocks hanging over a wooden walkway, second a wooden bridge seen from a creek. In the first shot, the creek is not visible, just the rocks on the right and trees and gorge on the left. Shot in autumn, with still some green trees but colored leafs on the ground, and boulders on both sides of the creek (in 2nd shot)."
+        ],
+        "answer": "05863",
+        "videorange": {
+            "start": 106000,
+            "end": 118000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs22-kis-t03",
+        "hints": [
+            "Almost static shot of a brown-white caravan and a horse on a meadow.",
+            "Almost static shot of a brown-white caravan and a horse on a meadow. The caravan is in the center, the horse in the back to its right, and there is a large tree on the right.",
+            "Almost static shot of a brown-white caravan and a horse on a meadow. The caravan is in the center, the horse in the back to its right, and there is a large tree on the right. The camera is slightly shaky, and there is a forested hill in the background."
+        ],
+        "answer": "12262",
+        "videorange": {
+            "start": 5100,
+            "end": 15000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs22-kis-t04",
+        "hints": [
+            "Man behind prison bars takes a cookie from a tray held by a woman walking by outside the cell. ",
+            "Man behind prison bars takes a cookie from a tray held by a woman walking by outside the cell. The face of the woman is not visible, she wears a white necklace.",
+            "Man behind prison bars takes a cookie from a tray held by a woman walking by outside the cell. The face of the woman is not visible, she wears a white necklace. The man wears a white shirt and his looks follow the woman as she walks by, he makes a gesture with his left hand at the end."
+        ],
+        "answer": "04459",
+        "videorange": {
+            "start": 160200,
+            "end": 163000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "vbs22-kis-t05",
+        "hints": [
+            "First person view from a motorbike, following a yellow car, passing it on the left and crossing an intersection. ",
+            "First person view from a motorbike, following a yellow car, passing it on the left and crossing an intersection. Before the intersection, there is the text \"bus stop\" and two forward white arrows on the left lane.",
+            "First person view from a motorbike, following a yellow car, passing it on the left and crossing an intersection. Before the intersection, there is the text \"bus stop\" and two forward white arrows on the left lane. The motorbike is not visible, only the shadow of the motorbike and driver is partly visible."
+        ],
+        "answer": "04178",
+        "videorange": {
+            "start": 234000,
+            "end": 244000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs22-kis-t06",
+        "hints": [
+            "Slow pan over a table with a glass, vase, leather cases and a wooden frame slate, then over a board with a timetable. ",
+            "Slow pan over a table with a glass, vase, leather cases and a wooden frame slate, then over a board with a timetable. The scene is poorly lit, and the text on the slate reads \"Welcome to our Story\", followed by a date.",
+            "Slow pan over a table with a glass, vase, leather cases and a wooden frame slate, then over a board with a timetable. The scene is poorly lit, and the text on the slate reads \"Welcome to our Story\", followed by a date. The timetable is titled \"OUR WEDDING\"."
+        ],
+        "answer": "04396",
+        "videorange": {
+            "start": 8000,
+            "end": 15000
+        },
+        "fps": 24.0
+    },
+    {
+        "query_name": "vbs22-kis-t07",
+        "hints": [
+            "A girl riding a red bicycle, followed by a close-up shot of a termite trail on a tree root.",
+            "A girl riding a red bicycle, followed by a close-up shot of a termite trail on a tree root. he girl\u00e2\u20ac\u2122s head is not visible, she wears a blue shirt and short red pants, and has a bag and a tripod in a basket on the bicycle's handlebar.",
+            "A girl riding a red bicycle, followed by a close-up shot of a termite trail on a tree root. he girl\u00e2\u20ac\u2122s head is not visible, she wears a blue shirt and short red pants, and has a bag and a tripod in a basket on the bicycle's handlebar. The focus in the shot of the termite trail gradually changes from back to front."
+        ],
+        "answer": "03869",
+        "videorange": {
+            "start": 166000,
+            "end": 172000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "vbs22-kis-t08",
+        "hints": [
+            "Shot of an opened magazine, showing a drawing of a bearded man on the right side, then a shot of a person standing in a street and holding different pages of an open magazine in front of the camera. ",
+            "Shot of an opened magazine, showing a drawing of a bearded man on the right side, then a shot of a person standing in a street and holding different pages of an open magazine in front of the camera. The person in the street wears a blue T-shirt and light grey jacket, and is wearing a mask and sunglasses. There are white frames with black text messages flashing up inbetween.",
+            "Shot of an opened magazine, showing a drawing of a bearded man on the right side, then a shot of a person standing in a street and holding different pages of an open magazine in front of the camera. The person in the street wears a blue T-shirt and light grey jacket, and is wearing a mask and sunglasses. There are white frames with black text messages flashing up inbetween. The drawing in the first shot is on black background, the man has a white beard, the title of the left page is \"vote for Pedro\"."
+        ],
+        "answer": "13108",
+        "videorange": {
+            "start": 129199,
+            "end": 138000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs22-kis-t09",
+        "hints": [
+            "Close-up shot of a yellow slug (naked snail) eating a green leaf with a tiny green branch.",
+            "Close-up shot of a yellow slug (naked snail) eating a green leaf with a tiny green branch. The leaf is in the lower center of the image, the slug curved in the right half. ",
+            "Close-up shot of a yellow slug (naked snail) eating a green leaf with a tiny green branch. The leaf is in the lower center of the image, the slug curved in the right half.  The slug and the leaf are on a bed of needles and small branches."
+        ],
+        "answer": "06057",
+        "videorange": {
+            "start": 1120000,
+            "end": 1161000
+        },
+        "fps": 30.0
+    },
+    {
+        "query_name": "vbs22-kis-t10",
+        "hints": [
+            "A shot of a man in a water slide, followed by two shots of two men trying to light a fire on a beach.",
+            "A shot of a man in a water slide, followed by two shots of two men trying to light a fire on a beach. The man slides down head first, and wears black bathing trunks.",
+            "A shot of a man in a water slide, followed by two shots of two men trying to light a fire on a beach. The man slides down head first, and wears black bathing trunks.  There is a circle of stones around the fire, and we do not see the heads  of the two men."
+        ],
+        "answer": "12956",
+        "videorange": {
+            "start": 185000,
+            "end": 192000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "vbs22-kis-t11",
+        "hints": [
+            "View from an upper deck of a ship down to a lower deck and water, slowly changing the view to the front of the ship, where a man with a camera walks into view.",
+            "View from an upper deck of a ship down to a lower deck and water, slowly changing the view to the front of the ship, where a man with a camera walks into view. The lower deck is on the left, with green floor and two red/orange chairs, and water is on the right.",
+            "View from an upper deck of a ship down to a lower deck and water, slowly changing the view to the front of the ship, where a man with a camera walks into view. The lower deck is on the left, with green floor and two red/orange chairs, and water is on the right. The man wears black trousers and a grey jacket."
+        ],
+        "answer": "15864",
+        "videorange": {
+            "start": 13000,
+            "end": 26000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "vbs22-kis-t12",
+        "hints": [
+            "A split screen shot of a building with a green facade with many different plants, static view on the left, detail view moving down on the right.",
+            "A split screen shot of a building with a green facade with many different plants, static view on the left, detail view moving down on the right. The walls on the ground floor are concrete walls, partly covered with woodwork.",
+            "A split screen shot of a building with a green facade with many different plants, static view on the left, detail view moving down on the right. The walls on the ground floor are concrete walls, partly covered with woodwork. The shadow of another building is moving down, until most of the building is in sunlight."
+        ],
+        "answer": "07242",
+        "videorange": {
+            "start": 40000,
+            "end": 52000
+        },
+        "fps": 25.0
+    },
+    {
+        "query_name": "vbs23-kis-t1",
+        "hints": [
+            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water.",
+            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles.\n",
+            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles. The river is partly lined with trees and there are spectators on the accessible spots. We see shots from both sides of the river.\n"
+        ],
+        "answer": "13872",
+        "videorange": {
+            "start": 57200,
+            "end": 83000
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "vbs23-kis-t2",
+        "hints": [
+            "Hands of a kid applying glue to an egg carton and then a view of a sculpture made of those cartons.",
+            "Hands of a kid applying glue to an egg carton and then a view of a sculpture made of those cartons. In the second shot, the camera pans up along green and turquoise egg cartons.",
+            "Hands of a kid applying glue to an egg carton and then a view of a sculpture made of those cartons. In the second shot, the camera pans up along green and turquoise egg cartons. On the first shot, we see a jar with white glue, the bottom of an egg carton and the kid holding a brush."
+        ],
+        "answer": "13062",
+        "videorange": {
+            "start": 143000,
+            "end": 157500
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "vbs23-kis-t3",
+        "hints": [
+            "A view through the glass roof of a lift cabin while it is moving upwards.",
+            "A view through the glass roof of a lift cabin while it is moving upwards.The walls of the lift shaft are visible at the left and top, and are also made of glass.",
+            "A view through the glass roof of a lift cabin while it is moving upwards. The walls of the lift shaft are visible at the left and top, and are also made of glass. The wires carrying the lift are visible in the center, while another (standing) lift cabin is visible on the right."
+        ],
+        "answer": "06791",
+        "videorange": {
+            "start": 77000,
+            "end": 86000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "vbs23-kis-t4",
+        "hints": [
+            "A two-masted sailing ship leaves a harbour, moving right behind a stone wall and a white light beacon.",
+            "A two-masted sailing ship leaves a harbour, moving right behind a stone wall and a white light beacon. There are mountains in the background, and the sun is behind clouds.\t",
+            "A two-masted sailing ship leaves a harbour, moving right behind a stone wall and a white light beacon. There are mountains in the background, and the sun is behind clouds. There are a number of smaller boats in front, one of them flying a Turkish flag."
+        ],
+        "answer": "08310",
+        "videorange": {
+            "start": 42000,
+            "end": 49000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "vbs23-kis-t5",
+        "hints": [
+            "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them.\n",
+            "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them. The bride has a blue bow around her waist, and a white/blue flower bouquet.",
+            "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them. The bride has a blue bow around her waist, and a white/blue flower bouquet. In the group shot, people are waving. A lady in a red jacket stands at the very left."
+        ],
+        "answer": "05722",
+        "videorange": {
+            "start": 197200,
+            "end": 202500
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "vbs23-kis-t6",
+        "hints": [
+            "A sequence of three shots: two people and a wall with posters, a balcony with laundry hanging on a rope and a train passing behind two standing tombstones.\t",
+            "A sequence of three shots: two people and a wall with posters, a balcony with laundry hanging on a rope and a train passing behind two standing tombstones. In the first shot, a person is standing around a corner of the wall on the right, the other person walks away to the left.",
+            "A sequence of three shots: two people and a wall with posters, a balcony with laundry hanging on a rope and a train passing behind two standing tombstones. In the first shot, a person is standing around a corner of the wall on the right, the other person walks away to the left. In the last shot, there is a fence between the graveyard and the railway line, and the roof of a building is visible behind the railway line."
+        ],
+        "answer": "12222",
+        "videorange": {
+            "start": 22000,
+            "end": 32000
+        },
+        "fps": 25
+    },
+    {
+        "query_name": "vbs23-kis-t7",
+        "hints": [
+            "View down the surface of a boulder, with a forest in the background. A bearded man in a cyan shirt climbing up the boulder.",
+            "View down the surface of a boulder, with a forest in the background. A bearded man in a cyan shirt climbing up the boulder. It is sunny, and we see the man's shadow on a smaller boulder on the right.",
+            "View down the surface of a boulder, with a forest in the background. A bearded man in a cyan shirt climbing up the boulder. It is sunny, and we see the man's shadow on a smaller boulder on the right. The man wears gloves, but does not use any ropes."
+        ],
+        "answer": "14700",
+        "videorange": {
+            "start": 155000,
+            "end": 167700
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "vbs23-kis-t8",
+        "hints": [
+            "View down from the helmet camera of a mountain biker, as he spins around on a path along a narrow ridge.\t",
+            "View down from the helmet camera of a mountain biker, as he spins around on a path along a narrow ridge. He spins by jumping on the back wheel. The ridge is flanked by sea.",
+            "View down from the helmet camera of a mountain biker, as he spins around on a path along a narrow ridge. He spins by jumping on the back wheel. The ridge is flanked by sea. We hear the biker narrating the scene."
+        ],
+        "answer": "08739",
+        "videorange": {
+            "start": 244000,
+            "end": 251000
+        },
+        "fps": 23.976025
+    },
+    {
+        "query_name": "vbs23-kis-t9",
+        "hints": [
+            "Start of an indoor bike race with 6 riders. A motorbike with a camera crosses the start line just after the starting shot.",
+            "Start of an indoor bike race with 6 riders. A motorbike with a camera crosses the start line just after the starting shot. A red digit 8 is shown on a display in the lower right, and a number of camera people are gathered in that area.",
+            "Start of an indoor bike race with 6 riders. A motorbike with a camera crosses the start line just after the starting shot. A red digit 8 is shown on a display in the lower right, and a number of camera people are gathered in that area. There are Tissot, Cali and Samsung banners along the track."
+        ],
+        "answer": "01140",
+        "videorange": {
+            "start": 0,
+            "end": 13000
+        },
+        "fps": 30
+    },
+    {
+        "query_name": "vbs23-kis-t10",
+        "hints": [
+            "Close-up shots of making coffee: grinding beans manually, putting the powder into a French press, and pouring coffee into a red mug.",
+            "Close-up shots of making coffee: grinding beans manually, putting the powder into a French press, and pouring coffee into a red mug. The French press is also red, and we see it operated from the top. Pouring beans into the grinder is also shown from the top.",
+            "Close-up shots of making coffee: grinding beans manually, putting the powder into a French press, and pouring coffee into a red mug. The French press is also red, and we see it operated from the top. Pouring beans into the grinder is also shown from the top. The red mug has the text \"The Pursuit\" in a black circle on it."
+        ],
+        "answer": "10788",
+        "videorange": {
+            "start": 21900,
+            "end": 37000
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "vbs23-kis-t11",
+        "hints": [
+            "Singing instruction video, showing two singers and a keyboarder, with an overlaid graphical visualization.",
+            "Singing instruction video, showing two singers and a keyboarder, with an overlaid graphical visualization. The male keyboarder is in the middle, the two girls singing on either side (left and right).",
+            "Singing instruction video, showing two singers and a keyboarder, with an overlaid graphical visualization. The male keyboarder is in the middle, the two girls singing on either side (left and right). We see an overlay with orange and pink curves indicating the scores, and blue dots marking the current position."
+        ],
+        "answer": "02024",
+        "videorange": {
+            "start": 157181,
+            "end": 184710
+        },
+        "fps": 15
+    },
+    {
+        "query_name": "vbs23-kis-t12",
+        "hints": [
+            "Close-up of a man lighting a match on a stone, and then cooking at a fireplace in the woods.",
+            "Close-up of a man lighting a match on a stone, and then cooking at a fireplace in the woods. He uses a black pot with water and pours powder into it while stirring.",
+            "Close-up of a man lighting a match on a stone, and then cooking at a fireplace in the woods. He uses a black pot with water and pours powder into it while stirring. The fireplace is surrounded by stones, and we see a blue tent in the background."
+        ],
+        "answer": "13367",
+        "videorange": {
+            "start": 56000,
+            "end": 72500
+        },
+        "fps": 29.97003
+    },
+    {
+        "query_name": "vbs24-kis-t1",
+        "hints": [
+            "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top.",
+            "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top. There are white/green benches, a lamppost and stairs up the hill.",
+            "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top. There are white/green benches, a lamppost and stairs up the hill. The flagpole is on top of a stone structure with a cannon."
+        ],
+        "answer": "10423",
+        "videorange":
+        {
+            "start": 24800,
+            "end": 39500
+        },
+	    "fps": 25
+    },
+    {
+        "query_name": "vbs24-kis-t2",
+        "hints": [
+            "A herd of donkeys/mules are walking down a walkway with stepsstairs, followed by a herdsman.",
+            "A herd of donkeys/mules are walking down a walkway with steps, followed by a herdsman. The animals are saddled, with blankets in different color.",
+            "A herd of donkeys/mules are walking down a walkway with steps, followed by a herdsman. The animals are saddled, with blankets in different color. The herdsman wears a bonnet and carries a stick."
+        ],
+        "answer": "07504",
+        "videorange":
+        {
+            "start": 22700,
+            "end": 34000
+        },
+	    "fps": 29.97
+    },
+    {
+        "query_name": "vbs24-kis-t5",
+        "hints": [
+            "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer.",
+            "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer. The wooden bench is under a tree and in its shadow, surrounded by grass.",
+            "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer. The wooden bench is under a tree and in its shadow, surrounded by grass. The man carries a black backpack, the woman a leather shoulder bag, and both wear sunglasses."
+        ],
+        "answer": "04757",
+        "videorange":
+        {
+            "start": 103230,
+            "end": 104500
+        },
+	    "fps": 23.98
+    },
+    {
+        "query_name": "vbs24-kis-t6",
+        "hints": [
+            "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him.",
+            "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. The bride puts her arm around his neck.",
+            "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. The bride puts her arm around his neck. The scene is outdoors, the man wears a striped shirt, black jacket and glasses with black/gray frame."
+        ],
+        "answer": "14494",
+        "videorange":
+        {
+            "start": 11380,
+            "end": 15300
+        },
+	    "fps": 24
+    },
+    {
+        "query_name": "vbs24-kis-t7",
+        "hints": [
+            "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away.",
+            "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. There are two bikes and four trash cans in front of the shop windows.",
+            "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. There are two bikes and four trash cans in front of the shop windows. The store's brand colors are green, white and blue."
+        ],
+        "answer": "17216",
+        "videorange":
+        {
+            "start": 483200,
+            "end": 490500
+        },
+	    "fps": 25
+    },
+	 {
+        "query_name": "vbs24-kis-t8",
+        "hints": [
+            "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background.",
+            "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background. We see two closer shots of the camera man and the three men pushing/pulling the dolly, and between them a wider shot of the dolly moving to the right.",
+            "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background. We see two closer shots of the camera man and the three men pushing/pulling the dolly, and between them a wider shot of the dolly moving to the right. In the last two shots, a red and white racecar rolling forward in front of the grandstand is being filmed."
+        ],
+        "answer": "06427",
+        "videorange":
+        {
+            "start": 185100,
+            "end": 188700
+        },
+	    "fps": 25
+    }
+]
