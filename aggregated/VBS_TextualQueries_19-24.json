@@ -130,7 +130,7 @@
         "hints": [
             "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away.",
             "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away. The man stands up when starting, the hovercraft is a stuck in the sand.",
-            "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away. The man stands up when starting, the hovercraft is a stuck in the sand. The man stands up when starting, the hovercraft is a stuck in the sand.\\nThe man wears a dark jacket, glasses and a hat."
+            "A man in a blue hovercraft on a beach, a dog jumps to him, and he starts to drive away. The man stands up when starting, the hovercraft is a stuck in the sand. The man stands up when starting, the hovercraft is a stuck in the sand. The man wears a dark jacket, glasses and a hat."
         ],
         "answer": "06116",
         "videorange": {
@@ -283,8 +283,8 @@
         "query_name": "Textual2020-32",
         "hints": [
             "A shot of a corner smoke & grocery store and a slow pan over the crossing.",
-            "A shot of a corner smoke & grocery store and a slow pan over the crossing.\nThe store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.",
-            "A shot of a corner smoke & grocery store and a slow pan over the crossing.\nThe store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.\nCars are parked along the opposite side of the street."
+            "A shot of a corner smoke & grocery store and a slow pan over the crossing.The store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.",
+            "A shot of a corner smoke & grocery store and a slow pan over the crossing.The store has two signs saying \"King's Deli & Grocery Smoke\", and decorated portal with an arch.Cars are parked along the opposite side of the street."
         ],
         "answer": "02457",
         "videorange": {
@@ -297,8 +297,8 @@
         "query_name": "Textual2020-31",
         "hints": [
             "A black musician standing in a NYC subway station and talking to people.",
-            "A black musician standing in a NYC subway station and talking to people.\nHe wears a white short and a cap, in the second shot one sees he has a drum and a black bag.",
-            "A black musician standing in a NYC subway station and talking to people.\nHe wears a white short and a cap, in the second shot one sees he has a drum and a black bag.\nIn the first shot, a sign \"EXIT Downtown 6\" is visible, in the second \"86th\" on the wall."
+            "A black musician standing in a NYC subway station and talking to people.He wears a white short and a cap, in the second shot one sees he has a drum and a black bag.",
+            "A black musician standing in a NYC subway station and talking to people.He wears a white short and a cap, in the second shot one sees he has a drum and a black bag.In the first shot, a sign \"EXIT Downtown 6\" is visible, in the second \"86th\" on the wall."
         ],
         "answer": "04740",
         "videorange": {
@@ -403,7 +403,7 @@
             "start": 166000,
             "end": 179000
         },
-        "fps": 223.976025
+        "fps": 23.976025
     },
     {
         "query_name": "t21-7",
@@ -633,8 +633,8 @@
         "query_name": "vbs23-kis-t1",
         "hints": [
             "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water.",
-            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles.\n",
-            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles. The river is partly lined with trees and there are spectators on the accessible spots. We see shots from both sides of the river.\n"
+            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles.",
+            "Kids in kayaks on a river, throwing paddles through three coloured hoops placed over the water. The sequence starts with two kids next to each other in red kayaks with red paddles. The river is partly lined with trees and there are spectators on the accessible spots. We see shots from both sides of the river."
         ],
         "answer": "13872",
         "videorange": {
@@ -688,7 +688,7 @@
     {
         "query_name": "vbs23-kis-t5",
         "hints": [
-            "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them.\n",
+            "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them.",
             "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them. The bride has a blue bow around her waist, and a white/blue flower bouquet.",
             "Shot of a wedding party panning from left to right , the party is grouped around bride and groom, then a shot of bride and groom walking and guests following them. The bride has a blue bow around her waist, and a white/blue flower bouquet. In the group shot, people are waving. A lady in a red jacket stands at the very left."
         ],
