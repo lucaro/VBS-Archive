@@ -36,3 +36,6 @@ This repository contains an archive of tasks and tesults of the [Video Browser S
 - **Marine Video Kit (MVK)** Paper DOI: [10.48550/arXiv.2209.11518](https://doi.org/10.48550/arXiv.2209.11518)
 - **Vimeo Creative Commons Collection (V3C)** Paper DOI: [10.1007/978-3-030-05710-7_29](https://doi.org/10.1007/978-3-030-05710-7_29)
 - **Internet Archive Creative Commons collection** Paper DOI: [10.1145/1631135.1631141](https://doi.org/10.1145/1631135.1631141)
+- 
+## AVS Judgements from VBS2022
+- You can find the AVS judgements (in TRECVID format) from VBS2022 in the file avs.vbs20222_dres.txt
