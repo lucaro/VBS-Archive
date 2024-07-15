@@ -38,4 +38,4 @@ This repository contains an archive of tasks and tesults of the [Video Browser S
 - **Internet Archive Creative Commons collection** Paper DOI: [10.1145/1631135.1631141](https://doi.org/10.1145/1631135.1631141)
 - 
 ## AVS Judgements from VBS2022
-- You can find the AVS judgements (in TRECVID format) from VBS2022 in the file avs.vbs20222_dres.txt
+- You can find the AVS judgements (in TRECVID format) from VBS2022 in the file [avs.vbs20222_dres.txt]
