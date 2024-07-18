@@ -1,7 +1,7 @@
 #
 # Conversion code to generate AVS judgements in TRECVID format 
 #
-# 2024-07-11 Werner Bailer <werner.bailer@joanneum.at>
+# 2024-07-18 Werner Bailer <werner.bailer@joanneum.at>
 #
 # CC-BY 4.0 licensed
 
@@ -27,7 +27,7 @@ def process_dres_json(json_fn,outdir,competition,msbdir=None,dresformat=False):
         
 
        
-    judgement_df = pd.DataFrame(columns=['taskName', 'junk','item','start_fr','start_s','end_fr','end_s','shot_id','stratum','judgement'])
+    judgement_df = pd.DataFrame(columns=['taskName', 'query', 'junk','item','start_fr','start_s','end_fr','end_s','shot_id','stratum','judgement'])
            
     # collect judged submissions       
     task_subm_list = data['tasks']
@@ -43,6 +43,7 @@ def process_dres_json(json_fn,outdir,competition,msbdir=None,dresformat=False):
                     if taskdef['taskGroup'] != 'AVS':
                         isavs = False
                     task_name = taskdef['name']
+                    task_query = taskdef['hints'][0]['description']
                         
                     continue
             if not(isavs):
@@ -55,6 +56,7 @@ def process_dres_json(json_fn,outdir,competition,msbdir=None,dresformat=False):
                 continue
 
             task_name = task_subm['description']['name']
+            task_query = task_subm['description']['hints'][0]['text']
         
             
         submissions = task_subm['submissions']
@@ -74,7 +76,7 @@ def process_dres_json(json_fn,outdir,competition,msbdir=None,dresformat=False):
                 judgement = 1
             elif s['status'] == 'WRONG':
                 judgement = 0
-            judgement_df.loc[len(judgement_df.index)] = [task_name, 0, answer['item']['name'], start_fr, start_s, end_fr, end_s, '', 1, judgement]   
+            judgement_df.loc[len(judgement_df.index)] = [task_name, task_query, 0, answer['item']['name'], start_fr, start_s, end_fr, end_s, '', 1, judgement]   
     
     
     print(judgement_df)
@@ -116,6 +118,16 @@ def process_dres_json(json_fn,outdir,competition,msbdir=None,dresformat=False):
         
     judgement_df.to_csv(os.path.join(outdir,'avs.'+competition+'.txt'),sep='\t',columns=['taskName', 'junk','shot_id','stratum','judgement'],index=False,header=False)
 
+    # write cleaned query list
+    querylist = judgement_df.drop_duplicates(subset=['taskName','query'],ignore_index=True)
+    querylist = querylist.sort_values(['taskName'],ignore_index=True)
+    querylist = querylist.replace('\n','', regex=True)
+    querylist = querylist.replace('\t','', regex=True)
+    querylist = querylist.replace('"','', regex=True)
+    querylist = querylist.replace('"','', regex=True)
+    querylist.to_csv(os.path.join(outdir,'avs.'+competition+'.topics.txt'),sep='\t',columns=['taskName', 'query'],index=False,header=False)
+
+
     if dresformat:
         judgement_df.to_csv(os.path.join(outdir,'avs.'+competition+'_dres.txt'),sep='\t',columns=['taskName', 'junk','item','start_fr','start_s','end_fr','end_s','stratum','judgement'],index=False,header=True)
 
@@ -124,7 +136,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('input_dir',
                     help='directory for input files (DRES run JSON)')
 parser.add_argument('output_dir',
-                    help='directory to write annotation text files, and reference shot boundaries (if applicable)')
+                    help='directory to write query list, annotation text files, and reference shot boundaries (if applicable)')
 parser.add_argument('filename',
                     help='name of the run JSON file to process')
 parser.add_argument('competition',
