@@ -1,0 +1,131 @@
+# Log from the chat of Zoom session of VBS 2025 expert session
+#
+# Times in CET (UTC+2), as recorded at the machine feeding the projector on-site
+# 
+# Tasks are separated with a line in the format
+# 00:00:00	---	--------------------
+# (note that the time stamp of this line does not indicate the start or end of a task
+
+
+07:09:25	---	--------------------
+07:09:25	Heiko Schuldt	A man with a gray hoodie and baseball cap is painting white letters on gray outdoor wall. The man ist standing on a red lifting platform. The letters have roughly  the same size as the man.
+07:12:04	Quang-Linh Tran	What letter did he write?
+07:12:34	Björn Þór Jónsson	He is painting the letter d in the vide
+07:12:48	Werner Bailer	Replying to "What letter did he w..."\n\nfudge and rite, öetter D
+07:12:53	Werner Bailer	Replying to "What letter did he w..."\n\nletter D
+07:13:06	Björn Þór Jónsson	Lower case “d”
+07:13:15	Stevan Rudinac	I believe there were two words writte, "Ride" and "Fudge"
+07:13:15	Werner Bailer	Replying to "What letter did he w..."\n\nCORRECTION vide - not right
+07:13:24	Björn Þór Jónsson	Replying to "What letter did he w..."\n\nLower case “d”
+08:00:17	---	--------------------
+08:00:17	Björn Þór Jónsson	Three friends, two with beer in hand, one rather unstable
+08:00:54	Quang-Linh Tran	the color of shirt of man
+08:00:58	Klaus Schoeffmann	outside or inside?
+08:01:00	Klaus Schoeffmann	sitting or standing?
+08:01:10	Björn Þór Jónsson	I think there is a man in red
+08:01:15	Werner Bailer	is there a man in red ? A: I think so
+08:01:17	Nick Pantelidis (CERTH)	are they young?
+08:01:29	Björn Þór Jónsson	Replying to "outside or inside?"\n\nInside a tent of some sort
+08:01:33	Stevan Rudinac	Middle aged to young
+08:01:42	Raphael Buchmüller (UKON, Keim)	whats the question?
+08:01:42	Werner Bailer	one with White, red and black Shirt
+08:01:53	Heiko Schuldt	one is wearing a white shirt, one a red shirt, one a black shirt
+08:01:55	Björn Þór Jónsson	Replying to "outside or inside?"\n\nProbably standing
+08:02:10	Klaus Schoeffmann	does the person in a red shirt have glasses?
+08:02:12	Björn Þór Jónsson	They are under a tent
+08:02:12	Heiko Schuldt	they are underneath a tent
+08:02:27	Stevan Rudinac	Some people have glasses
+08:02:35	Björn Þór Jónsson	Replying to "does the person in a..."\n\nI believe so
+08:03:02	Werner Bailer	Replying to "whats the question?"\n\nnot a QA Task, Looking for the Clip being described
+08:03:37	Werner Bailer	are they Holding anything? 2 hold beer glasses
+08:03:37	Stevan Rudinac	Some of them are holding a beer - two of them to be precise
+08:03:49	Björn Þór Jónsson	Are they talking to each other?
+08:03:52	Werner Bailer	are they Talking to each other? probably not
+08:03:56	Björn Þór Jónsson	Replying to "Are they talking to ..."\n\nWe don’t believe so
+08:03:56	Stevan Rudinac	We don't think they are talking to each other
+08:04:13	Stevan Rudinac	They are communicating non-verbaly though
+08:04:13	Werner Bailer	they are non verbally communicating
+08:05:09	Werner Bailer	is there anything unusual? Cowboy hat or straw hat
+08:05:11	Björn Þór Jónsson	There are other people in the shot as well
+08:05:15	Werner Bailer	hat is worn by one of them
+08:05:22	Stevan Rudinac	Somebody is wearing a funny hat, could be cowboy or straw hat
+08:05:31	Werner Bailer	other People in the shot
+08:05:37	Werner Bailer	those 3 look into camera
+08:05:45	Björn Þór Jónsson	Replying to "There are other peop..."\n\nOnly three are looking at the camera
+08:09:32	---	--------------------
+08:43:00	Raphael Buchmüller (UKON, Keim)	can you post it? i cant understand it
+08:43:14	Stevan Rudinac	A man with glasses commenting in solemn voice on a very dead person on a table.
+08:43:47	Werner Bailer	monochrome? color
+08:43:48	Björn Þór Jónsson	We are sure they are not coming back to life
+08:43:49	Stevan Rudinac	It's a colour picture
+08:43:51	Heiko Schuldt	colored picture
+08:44:08	Werner Bailer	man and Body not visible at the same shot
+08:44:10	Heiko Schuldt	man with glasses and very dead person not visible at the same time
+08:44:17	Björn Þór Jónsson	The man with the glasses and the body are not visible at the same time
+08:44:27	Björn Þór Jónsson	There is a transition
+08:44:42	Björn Þór Jónsson	Is the body on the table a man or a woman?
+08:44:44	Quang-Linh Tran	What the man wear?
+08:44:46	Björn Þór Jónsson	Replying to "Is the body on the t..."\n\nWe cannot tell
+08:44:48	Heiko Schuldt	gender of dead person not to be determined
+08:44:51	Stevan Rudinac	We are not sure about the gender of the corpse
+08:44:57	Björn Þór Jónsson	Replying to "What the man wear?"\n\nNothing
+08:45:08	Heiko Schuldt	no arrow in head of dead person
+08:45:16	Heiko Schuldt	dead person not wearing anything
+08:45:18	Werner Bailer	dead Person is wearing nothing
+08:45:19	Stevan Rudinac	I don't think that there is	arrow in the head of the dead person
+08:45:37	Stevan Rudinac	The dead person is not wearing anything
+08:45:46	Werner Bailer	human Person? yes
+08:45:48	Heiko Schuldt	it used to be a human
+08:45:51	Björn Þór Jónsson	It was a human
+08:46:36	Werner Bailer	we cannot tell hair Color of dead person
+08:46:57	Werner Bailer	is the Person Talking wearing a black Shirt? Navy blue or black
+08:47:41	Björn Þór Jónsson	It is a skeleton lying on the table
+08:47:42	Werner Bailer	does the Person Talking have hair? bald
+08:47:52	Werner Bailer	it's a Skeleton on a table
+09:18:00	---	--------------------
+09:18:00	Heiko Schuldt	Exhibition of photos of a religious leader
+09:18:13	Werner Bailer	what religious leader? pope
+09:18:27	Werner Bailer	which Pope? we guess John Paul II from Poland
+09:18:35	Heiko Schuldt	We guess it was pope John Paul II
+09:18:55	Werner Bailer	are there Pictures on the wall? on poster stands, could be wall
+09:19:12	Werner Bailer	something behind glass
+09:19:52	Björn Þór Jónsson	There is a golden chair
+09:19:57	Werner Bailer	distinguishing Features About shot? golden throne
+09:20:19	Stevan Rudinac	At least one picture of the pope is visible with the golden throne
+09:20:34	Björn Þór Jónsson	The pope is a man
+09:21:46	Werner Bailer	the Pope is bald in at least one shot?
+09:22:02	Werner Bailer	is there somebody on the throne? no, there is a Picture on the throne
+09:22:12	Werner Bailer	on one of the Pictures the Pope kisses the floor
+09:22:54	Stevan Rudinac	Or, alternatively, the pople could have fallen
+09:23:42	Björn Þór Jónsson	It may not be the same pope in all pictures
+09:24:01	Werner Bailer	not sure if all photos Show the same pope
+09:24:07	Werner Bailer	there are other People in some of the pictures
+09:24:08	Björn Þór Jónsson	There are other people in some of the pictures
+09:40:20	---	--------------------
+09:40:20	Björn Þór Jónsson	shot depicting a clearing in a forest, a wooden cross, mother and child
+09:40:48	Werner Bailer	all visible at the same time? yes
+09:40:51	Stevan Rudinac	They are visible at the same time
+09:41:04	Werner Bailer	are mother & child actual People? yes
+09:41:04	Stevan Rudinac	Mother and child are actual people
+09:41:05	Heiko Schuldt	mother and Child are people
+09:41:13	Heiko Schuldt	both are physical people
+09:41:16	Werner Bailer	are they on a Picture: actually People in the video
+09:41:16	Quang-Linh Tran	is the child walking on a fallend tree
+09:41:25	Werner Bailer	is it a small child? yes, 2-3 years
+09:41:31	Stevan Rudinac	Small child, probably 2-3 years old
+09:41:41	Heiko Schuldt	child wearing a white cap
+09:41:44	Stevan Rudinac	Child is probably wearing a white cap
+09:41:44	Werner Bailer	how far away is the forest? sizable clearing
+09:41:52	Björn Þór Jónsson	A sizable clearing
+09:42:12	Werner Bailer	does the Woman wear pink & red clothes? yes
+09:42:16	Stevan Rudinac	Does a woman wear a pink or red clothes? yes
+09:42:17	Heiko Schuldt	woman wearing red clothes
+09:42:51	Heiko Schuldt	No other people in the clearing
+09:43:08	Werner Bailer	improvised wooden cross
+09:43:12	Stevan Rudinac	Are there other people in the clearing? No, outside of camera person
+09:44:08	Werner Bailer	what else is the mother wearing? red/pink jacket, Jeans (not sure)
+09:44:29	Werner Bailer	anything peculiar? wooden structure behind, could be Cottage, small feeding station, very small shed
+09:44:58	Werner Bailer	there is a small fireplace behind the wooden cross
+09:44:58	Stevan Rudinac	There is a small fireplace behind the wooden cross
+09:45:05	Heiko Schuldt	small fireplace behind the wooden cross
+09:45:44	Werner Bailer	is the child still learning how to walk? Walking, but not very confidently

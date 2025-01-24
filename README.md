@@ -3,7 +3,8 @@ This repository contains an archive of tasks and tesults of the [Video Browser S
 
 | Year 	| Location   								| Dataset                               	| Participating Teams 	| Top Scorer        	|
 |------	|-------------------------------------------|---------------------------------------	|---------------------	|-------------------	|
-| 2025  | Nara, Japan								| V3C1 + V3C2 + V3C3 + MVK + VBSLHE (tbd)	| tbd					| tbd					|
+| 2026	|  Prague, Czech Republic					| tbd										| tbd					|
+| [2025](2025)  | Nara, Japan						| V3C1 + V3C2 + V3C3 + MVK + VBSLHE 		| 17					| [NII-UIT](https://link.springer.com/chapter/10.1007/978-981-96-2074-6_38)				|
 | [2024](2024)  | Amsterdam, The Netherlands  		| V3C1 + V3C2 + MVK + VBSLHE				| 12  					| [visione](https://link.springer.com/chapter/10.1007/978-3-031-53302-0_29)				|
 | [2023](2023)  | Bergen, Norway  					| V3C1 + V3C2 + MVK  						| 13                 	| [vibro](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_56)              	|
 | [2022](2022) 	| Phu Quoc, Vietnam  				| V3C1 + V3C2   							| 16                 	| [vibro](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_43)           	|
