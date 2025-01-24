@@ -1,6 +1,6 @@
 # Log from the chat of Zoom session of VBS 2025 expert session
 #
-# Times in CET (UTC+2), as recorded at the machine feeding the projector on-site
+# Times in CET (UTC+1), as recorded at the machine feeding the projector on-site
 # 
 # Tasks are separated with a line in the format
 # 00:00:00	---	--------------------
